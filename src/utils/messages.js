@@ -6,7 +6,7 @@ const generateMessage = (username,text) =>{
     }
 }
 
-
+// local message generation - 
 const generateLocationMessage = (username, url) =>{
     return {
         username,
